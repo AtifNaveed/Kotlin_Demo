@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveDatanBinding</string>
+    <string name="first_name_placeholder">first name</string>
+    <string name="last_name_placeholder">last name</string>
+</resources>
