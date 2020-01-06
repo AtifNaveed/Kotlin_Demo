@@ -1,8 +1,7 @@
 # Kotlin demos
 
-## Live data with data binding
+## Live data with data binding.
 
 - Data binding
 - XML binding
 - MVVM
-
